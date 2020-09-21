@@ -1,2 +1,2 @@
-# FCA_react_for_beginnners
+# fca_react_for_beginners
 React Beginner Course via Free Code Academy. 
